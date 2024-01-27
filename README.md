@@ -1,2 +1,9 @@
 # NLTK-Basics
-Learn Basics for NLTK
+
+
+
+Learn Basics of NLTK IN Python.
+
+
+
+This is best to learn as beginner. 
