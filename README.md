@@ -21,7 +21,7 @@ Open python via
  run the code to download all packaage
 
 Contributing
-If you'd like to contribute to this project, feel free to submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
+If you do like to contribute to this project, feel free to submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
 
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
