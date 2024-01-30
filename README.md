@@ -1,6 +1,6 @@
-Learn NLTK Basics
 
-# NLTK Example Project
+
+# NLTK Basics
 
 This program is a simple demonstration of using the Natural Language Toolkit (NLTK) in Python for text processing and analysis.
 
@@ -22,11 +22,12 @@ pip install nltk
 
 Installation of nltk.package
 
-Open python via 
+Open python via
 
-	  import nltk
-	  nltk.download()
- run the code to download all packaage
+ import nltk
+ nltk.download()
+
+run the code to download all packaage
 
 Contributing
 If you do like to contribute to this project, feel free to submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
